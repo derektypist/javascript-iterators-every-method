@@ -1,0 +1,12 @@
+/* Set Up Font */
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Regular.ttf);
+}
+
+/* Results */
+#results {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    color: #D0008D;
+}
