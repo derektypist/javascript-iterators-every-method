@@ -4,6 +4,11 @@
     src: url(fonts/Roboto/Roboto-Regular.ttf);
 }
 
+/* Body */
+body {
+    font-family: Roboto, Arial, Verdana, sans-serif;
+}
+
 /* Results */
 #results {
     margin-top: 1.5rem;
